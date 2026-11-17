@@ -12,16 +12,19 @@ Sales Performance Dashboard (Power BI)
 •	Created interactive dashboards to analyse sales trends , time forecasting and key performance indicators.
 •	Developed visual reports using charts, slicers, and filters.
 •	Applied basic DAX measures to calculate business metrics.
+
 SQL Data Analysis Project
 
 •	Extracted and analysed data using SQL queries.
 •	Performed data filtering, sorting, aggregation, and joins across multiple tables.
 •	Generated reports to identify trends and business insights.
+
 Excel Data Analysis Project
 
 •	Cleaned and organised datasets using Excel functions and formulas.
 •	Created Pivot Tables and charts to summarise business data.
 •	Automated repetitive reporting tasks using advanced Excel features.
+
 Python Data Analysis Project
 
 •	Python Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
