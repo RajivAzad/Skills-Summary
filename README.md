@@ -42,3 +42,14 @@ Python Data Analysis Project
 •	Statistical Techniques: Correlation Analysis, Trend Analysis, Regression Modelling
 
 •	Predicting  Customer Churn
+
+Professional Qualification
+
+•	New Zealand Diploma In Web Development And Design (Level 5), (in progress)
+Mission Ready, New zealand
+
+•	Bachelor of Technology, 
+Punjab Technical University, India		
+
+•	Diploma in Business Level-7,
+AWI International Group, Auckland	
