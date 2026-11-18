@@ -38,15 +38,13 @@ Excel Data Analysis Project
 
 Python Data Analysis Project
 
-• Python Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+• Worked with Python Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
-• Machine Learning: Linear Regression, Logistic Regression, Random Forest Regression, Data Preprocessing, Model Evaluation
+• Applied Machine Learning: Linear Regression, Logistic Regression, Random Forest Regression, Data Preprocessing, Model Evaluation, Correlation Analysis
 
-• ARIMA model for time series forecasting to predict future trends
+•	Predicted future trends using ARIMA model for time series forecasting 
 
-• Statistical Techniques: Correlation Analysis, Trend Analysis, Regression Modelling
-
-• Predicting Customer Churn
+•	Predicted  Customer Churn
 
 Professional Qualification
 
