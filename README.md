@@ -6,7 +6,7 @@ Email: rajivazad@ymail.com | Phone: +64 211535819
 
 LinkedIn: linkedin.com/in/rajiv-a-889696242
 
-Github :  RajivAzad (Rajiv Azad)
+Github :  [RajivAzad (Rajiv Azad)](https://github.com/RajivAzad)
 
 I am pursuing New Zealand Diploma In Web Development ,and Design (Level 5) at Mission Ready, New Zealand. I am an Aspiring Data Analyst with strong foundational knowledge in data analysis, data visualisation, and business intelligence tools.
 
