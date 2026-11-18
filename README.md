@@ -4,7 +4,7 @@ Hi, I am Rajiv !
 
 Email: rajivazad@ymail.com | Phone: +64 211535819
 
-LinkedIn: linkedin.com/in/rajiv-a-889696242
+LinkedIn: [linkedin.com/in/rajiv-a-889696242](https://www.linkedin.com/in/rajiv-a-889696242/)
 
 Github :  [RajivAzad (Rajiv Azad)](https://github.com/RajivAzad)
 
